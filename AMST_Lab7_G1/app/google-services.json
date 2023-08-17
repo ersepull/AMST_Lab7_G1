@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "697872724832",
+    "project_id": "push-notification-ee7b0",
+    "storage_bucket": "push-notification-ee7b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697872724832:android:7980f9815fc33cc075e405",
+        "android_client_info": {
+          "package_name": "com.example.appmessagingcloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697872724832-h7aahiggne42657lis137easqpa7sma3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Lxz2R91pDhg40QWyaOWZUC04lObcpoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697872724832-h7aahiggne42657lis137easqpa7sma3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
